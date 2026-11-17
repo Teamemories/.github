@@ -1,3 +1,4 @@
 # Teamemories
 
-- [x] [**🦊 Foxy**](https://github.com/Teamemories/Foxy)
+### [**🦊 Foxy**](https://github.com/Teamemories/Foxy)
+### [**👑 Qween**](https://github.com/Teamemories/Qween)
